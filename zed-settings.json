@@ -1,0 +1,87 @@
+{
+  "cli_default_open_behavior": "existing_window",
+  "tab_size": 4,
+  "hard_tabs": true,
+  "git": {
+    "inline_blame": {
+      "enabled": false,
+    },
+  },
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+  "show_whitespaces": "trailing",
+  "format_on_save": "off",
+  "title_bar": {
+    "show_menus": false,
+    "show_user_menu": false,
+    "show_sign_in": false,
+    "show_onboarding_banner": true,
+    "show_project_items": false,
+    "show_branch_name": true,
+    "show_branch_status_icon": false,
+  },
+  "status_bar": {
+    "line_endings_button": false,
+    "active_encoding_button": "non_utf8",
+    "show_active_file": false,
+    "cursor_position_button": false,
+  },
+  "inline_code_actions": false,
+  "tabs": {
+    "file_icons": false,
+    "git_status": false,
+  },
+  "tab_bar": {
+    "show_nav_history_buttons": false,
+    "show_pinned_tabs_in_separate_row": false,
+    "show": true,
+    "show_tab_bar_buttons": false,
+  },
+  "toolbar": {
+    "selections_menu": true,
+    "quick_actions": false,
+    "breadcrumbs": false,
+  },
+  "disable_ai": true,
+  "terminal": {
+    "shell": "system",
+    "dock": "bottom",
+  },
+  "git_panel": {
+    "button": false,
+    "dock": "left",
+  },
+  "collaboration_panel": {
+    "button": false,
+  },
+  "outline_panel": {
+    "button": false,
+  },
+  "debugger": {
+    "button": false,
+  },
+  "diagnostics": {
+    "button": false,
+  },
+  "global_lsp_settings": {
+    "button": false,
+  },
+  "search": {
+    "button": true,
+  },
+  "agent": {
+    "button": false,
+    "favorite_models": [],
+    "model_parameters": [],
+  },
+  "project_panel": {
+    "git_status_indicator": false,
+    "diagnostic_badges": false,
+    "entry_spacing": "comfortable",
+    "bold_folder_labels": false,
+    "button": false,
+    "dock": "left",
+  },
+}
