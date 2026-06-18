@@ -1,0 +1,14 @@
+
+! 16 Jun 2026 https://www.collinsdictionary.com
+www.collinsdictionary.com##.assistant-pwa-button
+www.collinsdictionary.com##footer
+www.collinsdictionary.com##.assistantIcon
+www.collinsdictionary.com##.icon-user
+www.collinsdictionary.com##.icon-sphere
+www.collinsdictionary.com##.assistant-sticky-bar
+www.collinsdictionary.com##.welcome.chat-window
+www.collinsdictionary.com##.res_cell_right
+www.collinsdictionary.com##.br.cobuild.cB-def.cB > .socialButtonsTopRight.socialButtons
+www.collinsdictionary.com##.cB-hook.cB
+www.collinsdictionary.com##.cB-v.cB
+www.collinsdictionary.com##.br.cobuild.cB-def.cB
