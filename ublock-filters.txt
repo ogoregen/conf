@@ -12,3 +12,8 @@ www.collinsdictionary.com##.br.cobuild.cB-def.cB > .socialButtonsTopRight.social
 www.collinsdictionary.com##.cB-hook.cB
 www.collinsdictionary.com##.cB-v.cB
 www.collinsdictionary.com##.br.cobuild.cB-def.cB
+
+! 18 Jun 2026 https://duckduckgo.com
+duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
+duckduckgo.com##.header--aside__item--hidden-lg.header--aside__item
+duckduckgo.com##.footer
