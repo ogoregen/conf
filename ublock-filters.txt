@@ -1,4 +1,3 @@
-
 ! 16 Jun 2026 https://www.collinsdictionary.com
 www.collinsdictionary.com##.assistant-pwa-button
 www.collinsdictionary.com##footer
@@ -17,3 +16,6 @@ www.collinsdictionary.com##.br.cobuild.cB-def.cB
 duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
 duckduckgo.com##.header--aside__item--hidden-lg.header--aside__item
 duckduckgo.com##.footer
+duckduckgo.com##.t-m.related-searches
+duckduckgo.com##.hoUWqHNnn8Kv_pLhPzPQ.wbUB0U7KMDyukXtzMd8Y > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
+duckduckgo.com##.react-feedback-prompt-mvc-wrapper--dictionary_definition.react-feedback-prompt-mvc-wrapper > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
