@@ -7,7 +7,7 @@ www.collinsdictionary.com##.icon-sphere
 www.collinsdictionary.com##.assistant-sticky-bar
 www.collinsdictionary.com##.welcome.chat-window
 www.collinsdictionary.com##.res_cell_right
-www.collinsdictionary.com##.br.cobuild.cB-def.cB > .socialButtonsTopRight.socialButtons
+www.collinsdictionary.com##.socialButtonsTopRight.socialButtons
 www.collinsdictionary.com##.cB-hook.cB
 www.collinsdictionary.com##.cB-v.cB
 www.collinsdictionary.com##.br.cobuild.cB-def.cB
@@ -19,3 +19,6 @@ duckduckgo.com##.footer
 duckduckgo.com##.t-m.related-searches
 duckduckgo.com##.hoUWqHNnn8Kv_pLhPzPQ.wbUB0U7KMDyukXtzMd8Y > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
 duckduckgo.com##.react-feedback-prompt-mvc-wrapper--dictionary_definition.react-feedback-prompt-mvc-wrapper > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
+
+! 18 Jun 2026 https://www.linkedin.com
+www.linkedin.com##._7b2ee40b.b5d2f225._171666c2._8ba15302.fb3c72ce._011d90be._6acd5688._17ceb00c._297bc8a0
