@@ -20,9 +20,6 @@ duckduckgo.com##.t-m.related-searches
 duckduckgo.com##.hoUWqHNnn8Kv_pLhPzPQ.wbUB0U7KMDyukXtzMd8Y > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
 duckduckgo.com##.react-feedback-prompt-mvc-wrapper--dictionary_definition.react-feedback-prompt-mvc-wrapper > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
 
-! 18 Jun 2026 https://www.linkedin.com
-www.linkedin.com##._7b2ee40b.b5d2f225._171666c2._8ba15302.fb3c72ce._011d90be._6acd5688._17ceb00c._297bc8a0
-
 ! 20 Jun 2026 https://feedly.com
 feedly.com##.TopHeaderBar
 
@@ -38,3 +35,7 @@ www.overleaf.com##.d-md-block.d-none > .current-plan
 www.overleaf.com##.btn-sm.btn-premium.btn.d-inline-grid
 www.overleaf.com##.cm-gutters-before.cm-gutters
 www.overleaf.com##.ide-rail
+
+! 20 Jun 2026 https://www.linkedin.com
+www.linkedin.com##._4ff70394._303d7ec1 > ._863acf9a._1b4c27bb._6d35c218.c04e75a9.d35b7b1e._2b252aff._6f77408f._9ca90fd0._2654c7df._2f4235ca._881eb76b
+
