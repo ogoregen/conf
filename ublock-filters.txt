@@ -29,3 +29,6 @@ feedly.com##.TopHeaderBar
 ! 20 Jun 2026 https://www.collinsdictionary.com
 ||www.collinsdictionary.com/external/images/assistant/ai_ball_new.png$image
 www.collinsdictionary.com##.cB-w.cB
+
+! 20 Jun 2026 https://www.youtube.com
+www.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
