@@ -32,3 +32,9 @@ www.collinsdictionary.com##.cB-w.cB
 
 ! 20 Jun 2026 https://www.youtube.com
 www.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
+
+! 20 Jun 2026 https://www.overleaf.com
+www.overleaf.com##.d-md-block.d-none > .current-plan
+www.overleaf.com##.btn-sm.btn-premium.btn.d-inline-grid
+www.overleaf.com##.cm-gutters-before.cm-gutters
+www.overleaf.com##.ide-rail
