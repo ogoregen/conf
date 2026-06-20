@@ -22,3 +22,10 @@ duckduckgo.com##.react-feedback-prompt-mvc-wrapper--dictionary_definition.react-
 
 ! 18 Jun 2026 https://www.linkedin.com
 www.linkedin.com##._7b2ee40b.b5d2f225._171666c2._8ba15302.fb3c72ce._011d90be._6acd5688._17ceb00c._297bc8a0
+
+! 20 Jun 2026 https://feedly.com
+feedly.com##.TopHeaderBar
+
+! 20 Jun 2026 https://www.collinsdictionary.com
+||www.collinsdictionary.com/external/images/assistant/ai_ball_new.png$image
+www.collinsdictionary.com##.cB-w.cB
