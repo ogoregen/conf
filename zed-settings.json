@@ -77,6 +77,7 @@
     "model_parameters": [],
   },
   "project_panel": {
+    "sticky_scroll": false,
     "git_status_indicator": false,
     "diagnostic_badges": false,
     "entry_spacing": "comfortable",
