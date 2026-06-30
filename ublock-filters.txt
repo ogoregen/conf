@@ -37,5 +37,5 @@ www.overleaf.com##.cm-gutters-before.cm-gutters
 www.overleaf.com##.ide-rail
 www.overleaf.com##.btn-sm.btn-primary.btn.d-inline-grid
 
-! 20 Jun 2026 https://www.linkedin.com
-www.linkedin.com##._4ff70394._303d7ec1 > ._863acf9a._1b4c27bb._6d35c218.c04e75a9.d35b7b1e._2b252aff._6f77408f._9ca90fd0._2654c7df._2f4235ca._881eb76b
+! 27 Jun 2026 https://learn.udacity.com
+learn.udacity.com###popover-trigger-«r7h»
