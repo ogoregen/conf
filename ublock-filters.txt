@@ -11,6 +11,10 @@ www.collinsdictionary.com##.socialButtonsTopRight.socialButtons
 www.collinsdictionary.com##.cB-hook.cB
 www.collinsdictionary.com##.cB-v.cB
 www.collinsdictionary.com##.br.cobuild.cB-def.cB
+www.collinsdictionary.com##.container-new-from-collins
+www.collinsdictionary.com##.carousel-title.h2
+www.collinsdictionary.com##div.popular-tools:nth-of-type(4)
+www.collinsdictionary.com##.wotd
 
 ! 18 Jun 2026 https://duckduckgo.com
 duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
@@ -23,7 +27,7 @@ duckduckgo.com##.react-feedback-prompt-mvc-wrapper--dictionary_definition.react-
 ! 20 Jun 2026 https://feedly.com
 feedly.com##.TopHeaderBar
 
-! 20 Jun 2026 https://www.collinsdictionary.com
+! 20 Jun 2026 https://www.collinsdictionary.com (mobile)
 ||www.collinsdictionary.com/external/images/assistant/ai_ball_new.png$image
 www.collinsdictionary.com##.cB-w.cB
 
