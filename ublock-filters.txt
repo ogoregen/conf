@@ -15,6 +15,9 @@ www.collinsdictionary.com##.container-new-from-collins
 www.collinsdictionary.com##.carousel-title.h2
 www.collinsdictionary.com##div.popular-tools:nth-of-type(4)
 www.collinsdictionary.com##.wotd
+||www.collinsdictionary.com/external/images/assistant/ai_ball_new.png$image
+www.collinsdictionary.com##.cB-w.cB
+www.collinsdictionary.com##.pB-quiz.pB
 
 ! 18 Jun 2026 https://duckduckgo.com
 duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
@@ -26,10 +29,6 @@ duckduckgo.com##.react-feedback-prompt-mvc-wrapper--dictionary_definition.react-
 
 ! 20 Jun 2026 https://feedly.com
 feedly.com##.TopHeaderBar
-
-! 20 Jun 2026 https://www.collinsdictionary.com (mobile)
-||www.collinsdictionary.com/external/images/assistant/ai_ball_new.png$image
-www.collinsdictionary.com##.cB-w.cB
 
 ! 20 Jun 2026 https://www.youtube.com
 www.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
