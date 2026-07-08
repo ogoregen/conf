@@ -42,3 +42,6 @@ www.overleaf.com##.btn-sm.btn-primary.btn.d-inline-grid
 
 ! 27 Jun 2026 https://learn.udacity.com
 learn.udacity.com###popover-trigger-«r7h»
+
+! 8 Jul 2026 https://mail.proton.me
+mail.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
