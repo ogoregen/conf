@@ -1,4 +1,4 @@
-! 16 Jun 2026 https://www.collinsdictionary.com
+! https://www.collinsdictionary.com
 www.collinsdictionary.com##.assistant-pwa-button
 www.collinsdictionary.com##footer
 www.collinsdictionary.com##.assistantIcon
@@ -19,29 +19,30 @@ www.collinsdictionary.com##.wotd
 www.collinsdictionary.com##.cB-w.cB
 www.collinsdictionary.com##.pB-quiz.pB
 
-! 18 Jun 2026 https://duckduckgo.com
+! https://duckduckgo.com
 duckduckgo.com##.Yy4FVTLlXDKk7XaBX_nT._I0sotAoeGtAJzkzyutg.fIgpqHfKgUmmk5lqmvL5
 duckduckgo.com##.header--aside__item--hidden-lg.header--aside__item
 duckduckgo.com##.footer
 duckduckgo.com##.t-m.related-searches
 duckduckgo.com##.hoUWqHNnn8Kv_pLhPzPQ.wbUB0U7KMDyukXtzMd8Y > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
 duckduckgo.com##.react-feedback-prompt-mvc-wrapper--dictionary_definition.react-feedback-prompt-mvc-wrapper > .AlPVsxUsFt3bnuOvg6hI.wZ4JdaHxSAhGy1HoNVja.ZvcE0ToM7Sfi6iwk7KiJ
+duckduckgo.com##.s_aX02AKO_sKezlF_w3n.bYzmzE1mNswz15hu88gN.mDfTLfECeDUwedENpz0Z
 
-! 20 Jun 2026 https://feedly.com
+! https://feedly.com
 feedly.com##.TopHeaderBar
 
-! 20 Jun 2026 https://www.youtube.com
+! https://www.youtube.com
 www.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 
-! 20 Jun 2026 https://www.overleaf.com
+! https://www.overleaf.com
 www.overleaf.com##.d-md-block.d-none > .current-plan
 www.overleaf.com##.btn-sm.btn-premium.btn.d-inline-grid
 www.overleaf.com##.cm-gutters-before.cm-gutters
 www.overleaf.com##.ide-rail
 www.overleaf.com##.btn-sm.btn-primary.btn.d-inline-grid
 
-! 27 Jun 2026 https://learn.udacity.com
+! https://learn.udacity.com
 learn.udacity.com###popover-trigger-«r7h»
 
-! 8 Jul 2026 https://mail.proton.me
+! https://mail.proton.me
 mail.proton.me##.button-promotion--icon-gradient.button-promotion.items-center.flex.max-w-full.text-center.inline-block.button-outline-weak.button-medium.button
